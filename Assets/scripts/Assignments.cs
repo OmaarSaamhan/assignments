@@ -21,6 +21,8 @@ public class Assignments : MonoBehaviour
             Debug.Log(randomNNum);
         }*/
 
+        // comment
+        
         string[] words = { "Cat", "Dog", "Car", "Pizza", "Hat", "Fish", "Tree", "Monkey", "Ball", "Bird" };
         int count = 0;
         int lenghtt = words.Length;
